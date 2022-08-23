@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divy
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on front end web development
 - 📫 How to reach me divy.parikh@hotmail.com
 
